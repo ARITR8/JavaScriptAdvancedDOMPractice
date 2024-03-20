@@ -1,4 +1,4 @@
-#FAQ's of Advanced DOM:-
+# FAQ's of Advanced DOM:-
 
 1. How DOM actually works behind the scene?
 
